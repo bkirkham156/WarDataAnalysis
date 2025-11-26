@@ -52,13 +52,9 @@ The project’s goals include:
 * Scatterplots to detect relationships between variables
 * Grouped comparisons between war types
 
-(If you'd like, I can generate a `/figures` folder and export images automatically.)
-
 ---
 
 ## 🔍 Insights & Findings (Summary)
-
-*(Replace or extend based on your notebook results)*
 
 * Conflicts increase noticeably in the 19th–20th centuries
 * Casualty distributions are heavily right-skewed
